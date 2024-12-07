@@ -29,4 +29,4 @@ Open the Expo Go app on your mobile device and scan the QR code from your termin
 <p>Gained familiarity with react-native-paper for quick and simple styling</p>
 <p>Used Async-storage to manage state for page refresh and app closures</p>
 <p>Used Expo to test on android device</p>
-<p>Managing shopping cart using react hooks like useState and useEffect is still the same</p>
+<p>Managed cart using react hooks like useState and useEffect</p>
