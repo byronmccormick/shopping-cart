@@ -26,7 +26,7 @@ Open the Expo Go app on your mobile device and scan the QR code from your termin
 <p>Organize components into their own folder</p>
 
 ## Notes
-<p>Learned to use react-native-paper for quick and simple styling</p>
-<p>Learned to use Async-storage to manage state for page refresh and app closures</p>
-<p>Learned about Expo to test on android device</p>
+<p>Gained familiarity with react-native-paper for quick and simple styling</p>
+<p>Used Async-storage to manage state for page refresh and app closures</p>
+<p>Used Expo to test on android device</p>
 <p>Managing shopping cart using react hooks like useState and useEffect is still the same</p>
